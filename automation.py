@@ -9,14 +9,14 @@ commitq = input("Do you want to commit the changes? (y/n):    ")
 if(commitq == 'y'):
         message = input("Enter the message for commit:    ")
 
-parent_dir = "E:/Projects/"
+parent_dir = "your directory"
 path = os.path.join(parent_dir, directory) 
 if(what == 'y'):
         os.mkdir(path) 
         print("Directory '% s' created" % directory) 
 
-username = 'AtulSingh72'
-password = 'mybdayon0204'
+username = 'your user name'
+password = 'your password'
 
 class Carry():
 	def __init__(self):
