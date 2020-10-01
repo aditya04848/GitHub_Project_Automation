@@ -18,3 +18,4 @@ After you have the necessary items installed, just open the *automation.py* file
 # How to automate the process
 After saving the details, just double click on the *automation.py* file which will open a CMD window, just answer a few questions regarding do you want to make a new folder, do you want to commit, etc. and you are good to go.
 The Script will automatically do the tasks as assigned by the user.
+author: Atul singh
